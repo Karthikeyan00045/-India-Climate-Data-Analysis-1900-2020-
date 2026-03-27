@@ -27,3 +27,8 @@ This project analyzes long-term climate trends in India using IMD datasets. It c
 
 ## Dashboard Preview
 (Add screenshots from Tableau here for recruiter visibility)
+
+# 💼 Work With Me
+Explore my recruiter‑ready Tableau dashboards and analytics portfolio.  
+👉 [View my Fiverr Portfolio](https://www.fiverr.com/users/karthikeyang756/portfolio)
+
